@@ -1,3 +1,10 @@
+<!--
+*** If you like this README,
+*** it is available as a template in my repositories,
+*** here is the link:
+*** https://github.com/CM0use/README-TEMPLATE
+-->
+
 <h1 align="center">
   <br>Hangman<br>
   <a href="https://shields.io/"><img src="https://img.shields.io/badge/Windows-0078d7?style=for-the-badge&logo=windows&logoColor=ffffff" alt="Windows"></a>
