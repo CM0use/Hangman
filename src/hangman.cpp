@@ -65,7 +65,7 @@ void Hangman::input(std::string& letter)
 
 std::uint16_t Hangman::hits(const std::string_view& secretEmpty)
 {
-	std::uint16_t hits = 0;
+    std::uint16_t hits = 0;
     const std::uint16_t size = secretEmpty.size();
     for (std::uint16_t i = 0; i < size; i++)
         if (secretEmpty[i] != '_')
