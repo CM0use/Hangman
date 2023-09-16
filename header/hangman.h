@@ -1,6 +1,7 @@
 /**
- ** This file is part of https://github.com/CM0use/Hangman
- ** Copyright 2023 CM0use <dilanuzcs@gmail.com>.
+ ** This file is part of Hangman project
+ ** Copyright 2023 CM0use dilanuzcs@gmail.com
+ ** URL: https://github.com/CM0use/Hangman
  **
  ** This program is free software: you can redistribute it and/or modify
  ** it under the terms of the GNU General Public License as published by
