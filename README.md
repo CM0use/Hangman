@@ -4,19 +4,17 @@
 *** here is the link:
 *** https://github.com/CM0use/README-TEMPLATE
 -->
-
-<h1 align="center">
-  <br>Hangman<br>
-  <a href="https://shields.io/"><img src="https://img.shields.io/badge/Windows-0078d7?style=for-the-badge&logo=windows&logoColor=ffffff" alt="Windows"></a>
-  <a href="https://shields.io/"><img src="https://img.shields.io/badge/mac%20OS-313131?style=for-the-badge&logo=macos&logoColor=d7d7d7" alt="MacOS"></a>
-  <a href="https://shields.io/"><img src="https://img.shields.io/badge/Linux-ffffff?style=for-the-badge&logo=linux&logoColor=000000" alt="Linux"></a>
+<h1 align="center">Hangman</h1>
+  
+<p align="center">
+  <img src="https://img.shields.io/badge/Windows-0078d7?style=for-the-badge&logo=windows&logoColor=ffffff" alt="Windows">
+  <img src="https://img.shields.io/badge/mac%20OS-313131?style=for-the-badge&logo=macos&logoColor=d7d7d7" alt="macOS">
+  <img src="https://img.shields.io/badge/Linux-ffffff?style=for-the-badge&logo=linux&logoColor=000000" alt="Linux">
   <br>
-  <a href="https://github.com/CM0use/Hangman/blob/main/LICENSE">
-    <img src="https://img.shields.io/badge/License-GPLv3-4a6484?style=for-the-badge" alt="License GPLv3">
-  </a>
-</h1>
+  <a href="https://github.com/CM0use/Hangman/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-GPLv3-4a6484?style=for-the-badge"></a>
+</p>
 
-<h4 align="center">Guess the word letter by letter until you guess the whole word with n tries or the gentleman will meet a tragic end.</h4>
+<p align="center"><i>Guess the word letter by letter until you guess the whole word with n tries or the gentleman will meet a tragic end.</i></p>
 
 <p align="center">
   <a href="#features">Features</a> •
@@ -29,7 +27,6 @@
 <div align="center">
 
 ![20220412_062852](https://user-images.githubusercontent.com/102839710/163677389-85670d71-90bc-49b5-b2d4-5b02d3684fd7.gif)
-
 </div>
 
 ## Features
@@ -46,27 +43,19 @@ To **clone** and **compile** this game, you will need to have **git** and **g++*
 From your command line:
 
 ```bash
-
 git clone https://github.com/CM0use/Hangman.git
 cd Hangman
 g++ -O2 -std=c++2a src/main.cpp src/Hangman.cpp -o hangman
-
 ```
 
 Run on **MacOS & Linux**:
-
 ```bash
-
 ./hangman
-
 ```
 
 Run on **Windows**:
-
 ```cmd
-
 hangman.exe
-
 ```
 
 ## Contributing
