@@ -32,7 +32,7 @@
 ## Features
 * Easy to modify.
 * Cross-Platform
-  - Windows, MacOS and Linux.
+  - Windows, macOS and Linux.
 
 ## Requirements
 * g++
@@ -48,7 +48,7 @@ cd Hangman
 g++ -O2 -std=c++2a src/main.cpp src/Hangman.cpp -o hangman
 ```
 
-Run on **MacOS & Linux**:
+Run on **macOS & Linux**:
 ```bash
 ./hangman
 ```
